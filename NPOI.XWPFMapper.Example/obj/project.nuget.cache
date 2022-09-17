@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jrV3MoVuEGGvgkJtRcxla7kHhJ+KmDhW79laHyYqUgLu+aNQEp81rEwOlZyu9KTqTwN2lKS7ToG45B7PpN5tRw==",
+  "dgSpecHash": "NK4H8dEyHPyRMXv7XWxdhVTmgIkZWRLOE+JGQVSiywbRje/LDBlf8piPN7H8go2r7dLM0mkgbnanwMnbTKtJwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\NPOI.XWPFMapper.Example\\NPOI.XWPFMapper.Example\\NPOI.XWPFMapper.Example.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bnkho\\.nuget\\packages\\apodemus.npoi.xwpfmapper\\2.0.0\\apodemus.npoi.xwpfmapper.2.0.0.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\apodemus.npoi.xwpfmapper\\2.1.0\\apodemus.npoi.xwpfmapper.2.1.0.nupkg.sha512",
     "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",

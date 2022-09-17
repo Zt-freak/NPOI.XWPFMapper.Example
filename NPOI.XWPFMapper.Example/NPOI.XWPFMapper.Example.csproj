@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="C:\Users\bnkho\.nuget\packages\apodemus.npoi.xwpfmapper\2.0.0\contentFiles\any\net6.0\xwpfmapper-logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Apodemus.NPOI.XWPFMapper" Version="2.1.0" />
+    <PackageReference Include="NPOI" Version="2.5.6" />
+  </ItemGroup>
+
 </Project>

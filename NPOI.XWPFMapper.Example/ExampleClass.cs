@@ -1,10 +1,5 @@
 ﻿using NPOI.XWPFMapper.Attributes;
 using NPOI.XWPFMapper.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NPOI.XWPFMapper.Example
 {
@@ -18,7 +13,7 @@ namespace NPOI.XWPFMapper.Example
         public string? Name { get; set; }
 
         // This child class also implements IXWPFMappable and will become a nested table.
-        [XWPFProperty("Address")]
+        [XWPFProperty("Address", Enums.XWPFTableAlignment.Row)]
         public ExampleChildClass? Address { get; set; }
 
         // Without the XWPFPropertyAttribute a member will be ignored by the mapping.

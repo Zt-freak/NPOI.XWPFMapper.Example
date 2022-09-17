@@ -14,9 +14,9 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)apodemus.npoi.xwpfmapper\2.0.0\contentFiles\any\net6.0\xwpfmapper-logo.ico" Condition="Exists('$(NuGetPackageRoot)apodemus.npoi.xwpfmapper\2.0.0\contentFiles\any\net6.0\xwpfmapper-logo.ico')">
+    <Content Include="$(NuGetPackageRoot)apodemus.npoi.xwpfmapper\2.1.0\contentFiles\any\net6.0\xwpfmapper-logo.ico" Condition="Exists('$(NuGetPackageRoot)apodemus.npoi.xwpfmapper\2.1.0\contentFiles\any\net6.0\xwpfmapper-logo.ico')">
       <NuGetPackageId>Apodemus.NPOI.XWPFMapper</NuGetPackageId>
-      <NuGetPackageVersion>2.0.0</NuGetPackageVersion>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>

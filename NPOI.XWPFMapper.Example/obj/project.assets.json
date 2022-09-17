@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Apodemus.NPOI.XWPFMapper/2.0.0": {
+      "Apodemus.NPOI.XWPFMapper/2.1.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -238,15 +238,15 @@
     }
   },
   "libraries": {
-    "Apodemus.NPOI.XWPFMapper/2.0.0": {
-      "sha512": "FxePCeFww94VvgNFV7rBG/K2JfZR43TdIoZMfmlkdr6y40OBOo6FcBbJarjZp8HgRFJ0EN3J1szt4DLGeWncZg==",
+    "Apodemus.NPOI.XWPFMapper/2.1.0": {
+      "sha512": "AQZ/agKZtHP/WgKGkRFBq3uQdnaQmQI6NG1UfrOFRW17N811gvuBmV3wA6fYlwEiyVlwZmd+jwxuGiygmowwng==",
       "type": "package",
-      "path": "apodemus.npoi.xwpfmapper/2.0.0",
+      "path": "apodemus.npoi.xwpfmapper/2.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "NUGET_README.md",
-        "apodemus.npoi.xwpfmapper.2.0.0.nupkg.sha512",
+        "apodemus.npoi.xwpfmapper.2.1.0.nupkg.sha512",
         "apodemus.npoi.xwpfmapper.nuspec",
         "content/xwpfmapper-logo.ico",
         "contentFiles/any/net6.0/xwpfmapper-logo.ico",
@@ -650,7 +650,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Apodemus.NPOI.XWPFMapper >= 2.0.0",
+      "Apodemus.NPOI.XWPFMapper >= 2.1.0",
       "NPOI >= 2.5.6"
     ]
   },
@@ -702,7 +702,7 @@
         "dependencies": {
           "Apodemus.NPOI.XWPFMapper": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "[2.1.0, )"
           },
           "NPOI": {
             "target": "Package",
